@@ -1,6 +1,6 @@
-# Neutron UI Theme for Atom
+# "Neutron V" UI Theme for Atom (violet modification)
 
-An (almost) flat theme in shades of gunmetal and medium-contrast colors. **Pair it with the [Neutron Syntax Theme](http://atom.io/packages/neutron-syntax)**.
+An (almost) flat theme in shades of gunmetal and medium-contrast colors. **Pair it with the [Neutron V Syntax Theme](http://atom.io/packages/neutronV-syntax)**.
 
 Inspired by [Spacegray](http://kkga.github.io/spacegray), forked from the [Atom port](https://github.com/cannikin) by @cannikin.
 
